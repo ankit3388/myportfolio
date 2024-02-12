@@ -160,7 +160,7 @@
 	body {
 		height: 100%;
 		background-color: #c64444;
-		background: url("images/background.jpg") no-repeat;
+		background: url("images/nebula.gif") no-repeat;
 		background-size: cover;
 		/* background-image: url("../../images/nebula.gif") -moz-linear-gradient(60deg, rgba(221, 254, 255, 0.87) 5%, rgba(0, 255, 213, 0.35)), url("../../images/bg.jpg"); */
 		/* background-image: url("images/overlay.png"), -webkit-linear-gradient(60deg, rgba(221, 254, 255, 0.87) 5%, rgba(0, 255, 213, 0.35)), url("../../images/bg.jpg"); */
