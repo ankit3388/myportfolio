@@ -162,6 +162,7 @@
 		background-color: #c64444;
 		background: url("/images/pic01.jpg") no-repeat;
 		background-size: cover;
+		/* kng */
 		/* background-image: url("../../images/nebula.gif") -moz-linear-gradient(60deg, rgba(221, 254, 255, 0.87) 5%, rgba(0, 255, 213, 0.35)), url("../../images/bg.jpg"); */
 		/* background-image: url("images/overlay.png"), -webkit-linear-gradient(60deg, rgba(221, 254, 255, 0.87) 5%, rgba(0, 255, 213, 0.35)), url("../../images/bg.jpg"); */
 		/* background-image: url("images/overlay.png"), -ms-linear-gradient(60deg, rgba(181, 180, 255, 0) 5%, rgba(0, 228, 255, 0.35)), url("../../images/bg.jpg"); */
