@@ -160,7 +160,7 @@
 	body {
 		height: 100%;
 		background-color: #c64444;
-		background: url("images/nebula.gif") no-repeat;
+		background: url("/images/pic01.jpg") no-repeat;
 		background-size: cover;
 		/* background-image: url("../../images/nebula.gif") -moz-linear-gradient(60deg, rgba(221, 254, 255, 0.87) 5%, rgba(0, 255, 213, 0.35)), url("../../images/bg.jpg"); */
 		/* background-image: url("images/overlay.png"), -webkit-linear-gradient(60deg, rgba(221, 254, 255, 0.87) 5%, rgba(0, 255, 213, 0.35)), url("../../images/bg.jpg"); */
@@ -881,7 +881,7 @@
 		padding: 0 1.5em;
 		background-color: transparent;
 		border-radius: 4px;
-		border: solid 1px #c8cccf;
+		border: solid 1px #dea41b;
 		color: #414f57 !important;
 		cursor: pointer;
 		text-align: center;
@@ -962,7 +962,7 @@
 	-webkit-flex-wrap: wrap;
 	-ms-flex-wrap: wrap;
 	flex-wrap: wrap;
-	postiion: relative;
+	postion:relative;
 	margin: -2.5em 0 0 -2.5em;
 }
 
