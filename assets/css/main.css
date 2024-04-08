@@ -111,7 +111,7 @@
 	}
 
 	.navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {
-		color: #0f032975;
+		color: #e1dfe875;
 
 
 	}
@@ -121,7 +121,7 @@
 
 	}
 	.bg-light {
-		background-color: #e6dcda75 !important;
+		background-color: #dceae6f6 !important;
 	}
 
 /* Basic */
@@ -160,7 +160,7 @@
 	body {
 		height: 100%;
 		background-color: #c64444;
-		background: url("/images/pic01.jpg") no-repeat;
+		background: url("/assets/css/images/background.jpg") no-repeat;
 		background-size: cover;
 		/* kng */
 		/* background-image: url("../../images/nebula.gif") -moz-linear-gradient(60deg, rgba(221, 254, 255, 0.87) 5%, rgba(0, 255, 213, 0.35)), url("../../images/bg.jpg"); */
